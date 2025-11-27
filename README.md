@@ -1,4 +1,4 @@
-README
+PYTHON-COWSAY'S README.MD
 ========================
 
 Hello! Thanks for considering an use of my python cowsay!  
@@ -48,3 +48,4 @@ Enjoy your python-cowsay!
 
 I can't provide support by now as I'm only a begginer progammer, but I'd love to hear some feedback.  
 Also, I'd like to say that all of the credit goes to Tony Monroe, not to me. He created this project and deservers the credit, I've only rewritten this on Python!
+
