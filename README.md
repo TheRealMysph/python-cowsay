@@ -2,9 +2,10 @@ README
 ========================
 
 Hello! Thanks for considering an use of my python cowsay!  
-Also, I'd like to say that this project is only a project made to me learn and practice python, it's not an official port, only a very, very silly project :) .
 
-**To run it on Windows:**    
+Also, I'd like to say that this project is only a project made to me learn and practice python, it's not an official port, only a very, very silly project :)
+
+## **To run it on Windows:**    
 
 Firstly download Python on https://www.python.org/downloads/ , it's *essential* to run this project.  
   
@@ -24,7 +25,7 @@ Run `python3 python-cowsay.py` or, if it fails, run `python python-cowsay.py` in
 
 Enjoy your python-cowsay!  
 
-**To run it on Linux**  
+## **To run it on Linux**  
   
 > Please note that the original cowsay is natively available on Linux, so, this is kinda useless on linux. You might want download this for fun or to see the python code.
 
@@ -43,7 +44,7 @@ If you have navigated to the folder that have the `python-cowsay.py` file, run `
 Enjoy your python-cowsay!  
   
   
-# Additional notes:
+### Additional notes:
 
 I can't provide support by now as I'm only a begginer progammer, but I'd love to hear some feedback.  
 Also, I'd like to say that all of the credit goes to Tony Monroe, not to me. He created this project and deservers the credit, I've only rewritten this on Python!
